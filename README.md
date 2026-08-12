@@ -145,8 +145,8 @@ This project was carried out collaboratively by the project team, covering trans
 - Designed the TSPC D flip-flop used in the SAR logic
 - Designed and analyzed the internal clock-generation circuitry
 - Designed and implemented the output register
-- Performed block-level simulations and analysis of the circuits developed as part of my contribution
-- Refined and debugged the integrated SAR ADC through iterative simulation, making circuit and timing adjustments to resolve integration issues and achieve the expected operation
+- Performed block-level simulations and analysis of the circuits developed
+- Refined and debugged the integrated SAR ADC through iterative simulation, making circuit and timing adjustments to investigate and resolve integration issues
 - Performed system-level testing and analysis of the integrated design
 - Investigated timing, synchronization, leakage, parasitic, and dynamic logic effects during integration
 
@@ -156,7 +156,7 @@ This project was carried out collaboratively by the project team, covering trans
 - Designed and analyzed the Capacitive DAC (CDAC)
 - Designed and analyzed the SAR control logic and its supporting internal blocks
 - Designed and analyzed the Master-Slave D flip-flop used in the output register
-- Performed block-level simulations and analysis of the circuits developed as part of her contribution
+- Performed block-level simulations and analysis of the circuits developed
 - Integrated the individual ADC blocks into the complete 12-bit asynchronous SAR ADC
 - Performed testing and analysis of the integrated design
 
