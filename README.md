@@ -135,12 +135,6 @@ Potential improvements identified during the project include:
 - Transistor-level circuit simulation
 - Mixed-signal circuit analysis
 
-## Project Team
-
-- **Sriti Sancharika** — [GitHub](https://github.com/Sriti-Sancharika-prof) | [LinkedIn](https://www.linkedin.com/in/sriti-sancharika/)
-- **Debanshi Jena** — [GitHub](https://github.com/DebanshiJena/) | [LinkedIn](https://www.linkedin.com/in/debanshi-jena-43ba67270/)
-- **Sagarika Rout**
-
 ## Project Contributions
 
 This project was carried out collaboratively by the project team, covering transistor-level circuit design, block-level simulation, system integration, and integrated ADC testing and analysis.
@@ -169,6 +163,12 @@ This project was carried out collaboratively by the project team, covering trans
 ### Sagarika Rout
 
 - Member of the project team
+
+## Project Team
+
+- **Sriti Sancharika** — [GitHub](https://github.com/Sriti-Sancharika-prof) | [LinkedIn](https://www.linkedin.com/in/sriti-sancharika/)
+- **Debanshi Jena** — [GitHub](https://github.com/DebanshiJena/) | [LinkedIn](https://www.linkedin.com/in/debanshi-jena-43ba67270/)
+- **Sagarika Rout**
 
 ## Project Context
 
